@@ -1,2 +1,2 @@
 # univ_cost
-Analyse du cout des universités à Port-au-prince
+Analyse du cout des universités prives à Port-au-prince
